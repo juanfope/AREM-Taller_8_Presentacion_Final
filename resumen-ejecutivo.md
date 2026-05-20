@@ -1,4 +1,4 @@
-##RESUMEN EJECUTIVO: TRANSFORMACIÓN ARQUITECTÓNICA DE THEGEEKHUB##
+#RESUMEN EJECUTIVO: TRANSFORMACIÓN ARQUITECTÓNICA DE THEGEEKHUB
 1. Introducción y Planteamiento del Problema
 THEGEEKHUB es un emprendimiento minorista dedicado a la comercialización de artículos coleccionables de series, películas y videojuegos. Desde su creación a finales de 2023, el negocio ha operado bajo un modelo artesanal y 100% virtual, canalizando sus interacciones y captación de clientes a través de redes sociales (Instagram, Facebook) y Mercado Libre.
 
